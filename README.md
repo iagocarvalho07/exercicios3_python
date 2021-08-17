@@ -1,1 +1,1 @@
-# exercicios3_python
+# exercicios3_python curso em video
